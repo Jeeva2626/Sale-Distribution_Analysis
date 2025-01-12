@@ -12,3 +12,24 @@ This objective emphasizes the purpose of the dashboard: to analyze sales distrib
 
 # Question (KIP'S) :
 
+1.	Total Sales till now.
+2.	Add a slicer to find monthly sales.
+3.	Top 3 customers, across the world.
+4.	Region-Wise sales percentage.
+5.	Add a slicer for region.
+6.	Monthly sales Vs Targeted sales.
+7.	Weekly sales.
+8.	Sales based on products.
+9.	Insert a map to find most sale region.
+
+# Dashboard Screenshoot :
+
+<img width="483" alt="Dashboard " src="https://github.com/user-attachments/assets/c911ca4d-0f82-4041-ac14-a70acc13b0e5" />
+
+# summay :
+
+<img width="481" alt="Summary " src="https://github.com/user-attachments/assets/e837bcc7-5a70-4e88-9fab-010d402ffc14" />
+
+# Project insight :
+
+
