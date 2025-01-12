@@ -32,4 +32,14 @@ This objective emphasizes the purpose of the dashboard: to analyze sales distrib
 
 # Project insight :
 
+1.	This dashboard gibes us a very deep understanding about the sales distribution across the world.
+2.	The top 3 customers were from India (34%) more then other countries.
+3.	The sales in weekend is very good compare to weekdays.
+4.	Wanted to improve the salesforce in weekdays by (58%).
+5.	In the months ( January, February June, July, August, December.) are the sales are High.
+
+# Final Conclusion :
+
+
+
 
