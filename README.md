@@ -4,6 +4,8 @@
 
 To gain a comprehensive understanding of sales distribution across key business dimensions (e.g., regions, product categories, customer segments) by developing and implementing a data-driven dashboard that provides interactive visualizations and key performance indicators (KPIs) for sales analysis.
 
+# Project Obejective :
+
 This objective emphasizes the purpose of the dashboard: to analyze sales distribution and uncover valuable insights for informed business decisions.
 
 # Dataset Used :
@@ -40,15 +42,15 @@ This objective emphasizes the purpose of the dashboard: to analyze sales distrib
 
 # Final Conclusion :
 
-Sales Distribution Analysis: The dashboard provides valuable insights into global sales distribution.
+1. Sales Distribution Analysis: The dashboard provides valuable insights into global sales distribution.
 
-Top Customer Market: India emerges as the leading market, contributing 34% of sales, significantly exceeding other countries.
+2. Top Customer Market: India emerges as the leading market, contributing 34% of sales, significantly exceeding other countries.
 
-Weekend Sales Dominance: Sales exhibit a strong weekend bias, indicating a need to boost weekday performance.
+3. Weekend Sales Dominance: Sales exhibit a strong weekend bias, indicating a need to boost weekday performance.
 
-Weekday Sales Improvement Target: A 58% increase in weekday sales is targeted to achieve a more balanced sales volume throughout the week.
+4. Weekday Sales Improvement Target: A 58% increase in weekday sales is targeted to achieve a more balanced sales volume throughout the week.
 
-Seasonal Sales Peaks: Sales consistently peak during January, February, June, July, August, and December, highlighting seasonal trends that should inform sales and marketing strategies.
+5. Seasonal Sales Peaks: Sales consistently peak during January, February, June, July, August, and December, highlighting seasonal trends that should inform sales and marketing strategies.
 
 
 
